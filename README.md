@@ -8,6 +8,7 @@ Aplicação desenvolvida durante uma semana intensiva pela Rocketseat, abordando
 - JavaScript/TypeScript
 - Jest
 - Tailwind CSS
+- SQLite
 - Prisma
 - Entre outras...
 
