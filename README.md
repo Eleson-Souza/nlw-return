@@ -1,5 +1,5 @@
 ## Descrição
-Aplicação desenvolvida durante uma semana intensiva pela Rocketseat, abordando diversas tecnologias e ferramentas de mercado. Trata-se de uma pequena aplicação para cadastro no banco e envio de feedbacks pelos usuários por e-mail. Apesar de pequena aborda inúmeras tecnologias altamente utilizadas no mercado.
+Aplicação desenvolvida de ponta a ponta (Front-end, Back-end e Mobile) durante uma semana intensiva da Rocketseat, abordando diversas tecnologias e ferramentas de mercado. Trata-se de uma pequena aplicação para cadastro no banco e envio de feedbacks pelos usuários por e-mail. Apesar de pequena em funcionalidades, aborda inúmeras tecnologias altamente utilizadas no mercado.
 
 ## 🚀 Tecnologias e ferramentas
 - ReactJS
