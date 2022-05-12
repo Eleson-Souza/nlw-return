@@ -13,4 +13,11 @@ Aplicação desenvolvida durante uma semana intensiva pela Rocketseat, abordando
 
 [Layout do Projeto](https://www.figma.com/community/file/1102912516166573468/Feedback-Widget)
 
-## Web
+## 💻 Web
+![Web](./archives/web.gif)
+
+## 📱 Mobile
+![Web](./archives/mobile.gif)
+
+### Dados registrados no banco
+![Web](./archives/mobile-prisma-studio.png)
